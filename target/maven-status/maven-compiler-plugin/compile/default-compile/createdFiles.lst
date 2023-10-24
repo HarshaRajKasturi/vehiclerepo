@@ -1,0 +1,5 @@
+com\cg\Application.class
+com\cg\entity\Vechile.class
+com\cg\controller\VechileController.class
+com\cg\dao\VechileInterface.class
+com\cg\service\VechileService.class

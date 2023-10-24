@@ -1,6 +1,11 @@
 package com.cg.entity;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
 public class Vechile {
+	@Id
 	private int vId;
 	private String brand;
 	private String color;
